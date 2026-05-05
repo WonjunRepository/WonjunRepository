@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 안녕하세요! 저는 [이름/닉네임]입니다.
 
-<!--
-**WonjunRepository/WonjunRepository** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+- 🎯 **목표:** [어떤 비즈니스 임팩트를 만들어내는 개발자/데이터 사이언티스트인지 1~2줄 요약]
+- 🎓 **현재 집중하고 있는 것:** [예: 추천 시스템 아키텍처 설계, 실무 중심의 AI 모델링]
+- 🤝 **협업 스타일:** [예: 단순 구현을 넘어 기획 의도와 비즈니스 요구사항을 이해하고 소통하는 것을 중요하게 생각합니다.]
+- 📫 **Contact:** [이메일 주소] | [블로그/노션 포트폴리오 링크] | [링크드인 링크]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+<!-- 나중에 쉴드(Shields.io) 뱃지 이미지로 예쁘게 교체할 공간입니다 -->
+
+### Languages
+- Python, SQL, [기타 언어]
+
+### AI / Machine Learning
+- PyTorch, Scikit-learn, [사용해본 프레임워크나 라이브러리]
+
+### Tools & Architecture
+- Git, Notion, Canva, [사용한 협업 툴 및 인프라/클라우드 기술]
+
+---
+
+## 🚀 Pinned Projects
+<!-- 나중에 깃허브 메인에 고정할 핵심 프로젝트 3~4개를 요약해서 적을 공간입니다 -->
+
+### 1. [프로젝트명 1: 예 - 리테일 상품 리뉴얼 전략을 위한 이종 정보 네트워크(HIN) 분석]
+- **한 줄 소개:** [프로젝트의 핵심 결과나 비즈니스 임팩트 요약]
+- **사용 기술:** [Python, 모델링 기술 등]
+- **내 역할:** [예: 기업 데이터 전처리 및 메타 그래프 학습 모델 설계]
+- [🔗 Repository Link](여기에 레포지토리 링크를 넣으세요)
+
+### 2. [프로젝트명 2: 예 - B2B 타겟 AI 음성 합성 솔루션 및 아키텍처 설계]
+- **한 줄 소개:** [서비스의 핵심 가치 요약]
+- **사용 기술:** [관련 기술 및 툴]
+- **내 역할:** [예: 오디오 동기화 로직 검토 및 수익화 모델 기획]
+- [🔗 Repository Link](여기에 레포지토리 링크를 넣으세요)
+
+---
+
+## 📈 GitHub Stats
+<!-- 나중에 깃허브 잔디(Commit) 통계나 가장 많이 쓴 언어(Most Used Languages) 위젯 이미지를 추가할 공간입니다 -->
